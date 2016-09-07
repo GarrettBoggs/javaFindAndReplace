@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FindandreplaceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-09-07T18:26:18" hostname="epicodus-20.local" time="0.003">
+  <properties/>
+  <testcase name="runFindAndReplace_changeOneLetter_replaceWordString" classname="FindandreplaceTest" time="0.002"/>
+  <testcase name="runFindAndReplace_changeOneLetter_multiWordString" classname="FindandreplaceTest" time="0.0"/>
+  <testcase name="runFindAndReplace_changeOneLetter_multiLetterString" classname="FindandreplaceTest" time="0.0"/>
+  <testcase name="runFindAndReplace_changeOneLetter_stringLetter" classname="FindandreplaceTest" time="0.0"/>
+  <testcase name="runFindAndReplace_changeOneLetter_replaceWordStringCaps" classname="FindandreplaceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
